@@ -136,8 +136,7 @@ Function Prototypes
 | `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
 
 ## Authors
-```
-bash
+```bash
 <details>
     <summary>Beka Gerbaba</summary>
     <ul>
