@@ -27,9 +27,13 @@ prototypes for all types and functions written for the project.
 
 ## Environment
 
+<div>
+
 <a  href="https://ubuntu.com/"  target="_blank"><img  height="48px"  src="https://raw.githubusercontent.com/ralexrivero/xelar_theme_profile/main/icons/ubuntu-icon.svg"  alt="C programming language"></a>
 
 * Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
+
+</div>
 
 > Basic binary tree
 ```c
@@ -132,7 +136,8 @@ Function Prototypes
 | `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
 
 ## Authors
-
+```
+bash
 <details>
     <summary>Beka Gerbaba</summary>
     <ul>
@@ -140,4 +145,4 @@ Function Prototypes
     <li><a href="mailto:beekanensarmu@gmail.com">e-mail</a></li>
     </ul>
 </details>
-# binary_trees
+``` 
