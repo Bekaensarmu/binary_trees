@@ -11,13 +11,7 @@ if (tree == NULL || func == NULL)
 {
 return;
 }
-
-/* Traverse the left subtree in in-order */
 binary_tree_inorder(tree->left, func);
-
-/* Call the function on the current node's value */
 func(tree->n);
-
-/* Traverse the right subtree in in-order */
 binary_tree_inorder(tree->right, func);
 }
